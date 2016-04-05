@@ -183,3 +183,4 @@ UpgradeLog*.htm
 
  # Visual Studio 2014 CTP
  **/*.sln.ide
+ **/*.sln
