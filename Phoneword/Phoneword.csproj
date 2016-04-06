@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CallHistoryActivity.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="PhoneTranslator.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
